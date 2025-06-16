@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "279",
+    "type_info": {
+        "key": "279",
+        "type": "바벨/덤벨",
+        "pose": "선 자세",
+        "exercise": "덤벨 벤트오버 로우",
+        "conditions": [
+            {
+                "condition": "척추의 중립",
+                "value": false
+            },
+            {
+                "condition": "무릎 반동 없음",
+                "value": false
+            },
+            {
+                "condition": "상체 반동 없음",
+                "value": false
+            },
+            {
+                "condition": "덤벨 궤적과 몸 밀착",
+                "value": false
+            },
+            {
+                "condition": "손목의 중립",
+                "value": true
+            }
+        ],
+        "description": "척추 말린상태에서 무릎하고 상체 반동하면서 덤벨 몸에서 멀게"
+    }
+}

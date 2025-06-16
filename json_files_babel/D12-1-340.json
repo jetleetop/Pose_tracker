@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "340",
+    "type_info": {
+        "key": "340",
+        "type": "바벨/덤벨",
+        "pose": "선 자세",
+        "exercise": "바벨 런지",
+        "conditions": [
+            {
+                "condition": "앞다리 무릎 각도 90도",
+                "value": true
+            },
+            {
+                "condition": "몸통 발 무릎 방향 일치여부",
+                "value": false
+            },
+            {
+                "condition": "뒤다리 무릎 각도 90도",
+                "value": true
+            },
+            {
+                "condition": "척추의 중립",
+                "value": false
+            },
+            {
+                "condition": "상체의 과조한 숙임/젖힘 여부",
+                "value": true
+            }
+        ],
+        "description": "발방향 안쪽 몸통 옆으로 갸우뚱"
+    }
+}

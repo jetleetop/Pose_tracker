@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "305",
+    "type_info": {
+        "key": "305",
+        "type": "바벨/덤벨",
+        "pose": "선 자세",
+        "exercise": "바벨 데드리프트",
+        "conditions": [
+            {
+                "condition": "척추의 중립",
+                "value": false
+            },
+            {
+                "condition": "발과 무릎의 방향 일치",
+                "value": false
+            },
+            {
+                "condition": "바벨 궤적과 몸 밀착",
+                "value": true
+            },
+            {
+                "condition": "무릎과 골반이 동시에 펴짐",
+                "value": false
+            },
+            {
+                "condition": "발바닥 지면 고정",
+                "value": true
+            }
+        ],
+        "description": "척추 말린상태에서 무릎 모은채로 먼저펴고"
+    }
+}

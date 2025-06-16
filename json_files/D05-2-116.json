@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "116",
+    "type_info": {
+        "key": "116",
+        "type": "맨몸 운동",
+        "pose": "선 자세",
+        "exercise": "스텝 백워드 다이나믹 런지",
+        "conditions": [
+            {
+                "condition": "앞다리 무릎 각도 90도",
+                "value": true
+            },
+            {
+                "condition": "몸통 발 무릎 방향 일치여부",
+                "value": true
+            },
+            {
+                "condition": "뒤다리 무릎 각도 90도",
+                "value": false
+            },
+            {
+                "condition": "척추의 중립",
+                "value": true
+            },
+            {
+                "condition": "상체의 과조한 숙임/젖힘 여부",
+                "value": true
+            }
+        ],
+        "description": "정자세에서 뒷다리 다 펴고"
+    }
+}

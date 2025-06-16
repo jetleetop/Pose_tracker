@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "244",
+    "type_info": {
+        "key": "244",
+        "type": "바벨/덤벨",
+        "pose": "선 자세",
+        "exercise": "바벨 로우",
+        "conditions": [
+            {
+                "condition": "척추의 중립",
+                "value": false
+            },
+            {
+                "condition": "무릎 반동 없음",
+                "value": true
+            },
+            {
+                "condition": "상체 반동 없음",
+                "value": false
+            },
+            {
+                "condition": "바벨 궤적과 몸 밀착",
+                "value": false
+            },
+            {
+                "condition": "손목의 중립",
+                "value": false
+            }
+        ],
+        "description": "척추 말린상태에서 상체 반동 하고 손목 꺾고 바벨 몸에서 멀게"
+    }
+}

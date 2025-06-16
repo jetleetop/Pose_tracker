@@ -1,0 +1,33 @@
+{
+    "frames": [],
+    "type": "026",
+    "type_info": {
+        "key": "026",
+        "type": "맨몸 운동",
+        "pose": "선 자세",
+        "exercise": "스탠딩 사이드 크런치",
+        "conditions": [
+            {
+                "condition": "척추의 중립",
+                "value": false
+            },
+            {
+                "condition": "시선 정면 유지",
+                "value": false
+            },
+            {
+                "condition": "수축시 무릎과 팔꿈치가 충분히 가까움",
+                "value": false
+            },
+            {
+                "condition": "무릎이 몸통 측면에서 올라오는지 여부",
+                "value": true
+            },
+            {
+                "condition": "양 손이 머리 뒤에 위치",
+                "value": true
+            }
+        ],
+        "description": "정자세에서 앞으로 숙이고 하늘보고 무릎 낮게"
+    }
+}
