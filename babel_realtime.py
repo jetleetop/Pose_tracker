@@ -6,6 +6,7 @@ import numpy as np
 import mediapipe as mp
 from tensorflow.keras.models import load_model
 
+
 # 2) 설정
 BASE_DIR        = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH      = os.path.join(BASE_DIR, 'aimodel', 'pose_condition_exercise_babel_model.keras')

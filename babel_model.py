@@ -115,7 +115,7 @@ model.fit(
 )
 
 # 저장
-model.save('pose_condition_exercise_babel_model.keras')
+model.save('pose_model.h5')
 with open('exercise_index_babel.json','w',encoding='utf-8') as f:
     json.dump(exe_idx,f,ensure_ascii=False,indent=2)
 
